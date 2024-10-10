@@ -2,19 +2,26 @@
     margin: auto;
     background-color: #D8D2C2;
     border: 1px solid #D8D2C2;
-    border-radius: 1px;
+    border-radius: 25px;
     width: 95%;
 }
 .Top-Header {
     display: flex;
-    justify-content: left;
+    /* justify-content: left; */
+    justify-content: space-evenly;
     padding-left: 3rem;
     padding-right: 3rem;
 }
 .Bio {
     display: flex;
     justify-content: left;
-    align-items: center;
+    /* align-items: center; */
+}
+
+#About-Information {
+    padding-top: 3rem;
+    padding-left: -3rem;
+    /* position: relative; */
 }
 
 #Name {
@@ -29,8 +36,9 @@
     width: auto; 
     max-width: 300px; 
     max-height: 300px;
-    border-radius: 25%;
+    border-radius: 100%;
     border: 1px solid #4A4947;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
