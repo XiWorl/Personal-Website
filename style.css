@@ -42,3 +42,21 @@
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+
+
+/* #Drop-Shadow {
+    padding-top: 0rem;
+    background-color: #918d81;
+    height: 1rem;
+    width: 100%;
+    margin: auto;
+
+    border-radius: 5px;
+} */
+
+#Experience {
+    text-align: center;
+    padding-bottom: 1rem;
+    color: #B17457;
+    font-size: 30px;
+}
